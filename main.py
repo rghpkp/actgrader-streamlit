@@ -13,7 +13,7 @@ sys.path.append('./static/grader/classes')
 
 
 st.title("ACT Grader")
-st.markdown("Upload a scan/photo of the [answer sheet](https://u.pcloud.link/publink/show?code=XZikKEVZFn1FDc3qXGz8v3wWNcqofuqy2M0y), make any necessary corrections, then SUBMIT the answers for grading. You may also download this demo sheet, then upload it for grading." )
+st.markdown("Upload a scan/photo of the [answer sheet](https://u.pcloud.link/publink/show?code=XZikKEVZFn1FDc3qXGz8v3wWNcqofuqy2M0y), make any necessary corrections, then SUBMIT the answers for grading. You may also download this [demo sheet](), then upload it for grading." )
 st.write("You will need the student's first name, last name, and the ACT test code in yyyymm format."
 )
 st.write(
