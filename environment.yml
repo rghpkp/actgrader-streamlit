@@ -226,7 +226,7 @@ dependencies:
   - pyphen=0.14.0=pyhd8ed1ab_0
   - pyrsistent=0.19.3=py39h72bdee0_0
   - pysocks=1.7.1=pyha2e5f31_6
-  - python=3.9.16=h2782a2a_0_cpython
+  - python=3.9.12=h2660328_1_cpython
   - python-dateutil=2.8.2=pyhd8ed1ab_0
   - python-tzdata=2023.3=pyhd8ed1ab_0
   - python_abi=3.9=3_cp39
@@ -247,6 +247,7 @@ dependencies:
   - six=1.16.0=pyh6c4a22f_0
   - smmap=3.0.5=pyh44b312d_0
   - snappy=1.1.10=h9fff704_0
+  - sqlite=3.42.0=h2c6b66d_0
   - stack_data=0.6.2=pyhd8ed1ab_0
   - streamlit=1.23.1=pyhd8ed1ab_0
   - svt-av1=1.4.1=hcb278e6_0
